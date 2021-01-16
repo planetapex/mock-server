@@ -1,0 +1,26 @@
+{
+  "name": "json_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "json-server-auth": "^1.2.1",
+    "passport": "^0.4.1",
+    "passport-http": "^0.3.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "commander-plus": "0.0.6",
+    "faker": "^4.1.0",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.15"
+  }
+}
